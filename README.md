@@ -7,4 +7,4 @@ A simple api created as a task for botkeeper
 
 ## Api endpoints
 1. `/products`: Retrieve all products and corresponding inventory data.
-2. `product/:name`: Retrieve a single product and corresponding inventory data.
+2. `/product/:name`: Retrieve a single product and corresponding inventory data.
